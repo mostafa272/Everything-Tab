@@ -5,6 +5,14 @@ The Everything Tab is a simple widget that shows wordpress widgets, posts and pa
 ## Installation                            
 Download everything-tab.zip file and upload it to wordpress uploads folder, then activate it. If you download release file, you should extract it to find everything-tab.zip file.
 
+## Wiki Homepage                    
+
+https://github.com/mostafa272/Everything-Tab/wiki
+
+## Demo                        
+
+https://github.com/mostafa272/Everything-Tab/wiki/Demo
+
 
 ## Donate to support us                                     
                                                                    
